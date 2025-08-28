@@ -40,17 +40,3 @@ Ao executar o programa, um menu interativo será exibido no seu terminal, permit
 
 -   `meu_app.py`: O código-fonte principal do aplicativo.
 -   `tarefas.txt`: (Gerado automaticamente) Arquivo de texto onde as tarefas são salvas.
-
----
-
-Este `README.md` cobre todas as informações essenciais. Para adicioná-lo ao seu projeto e enviá-lo para o GitHub, você pode usar os seguintes comandos:
-
-```bash
-# Adiciona o novo arquivo README.md
-git add README.md
-
-# Salva a alteração com uma mensagem descritiva
-git commit -m "Adiciona o arquivo README"
-
-# Envia o arquivo para o seu repositório no GitHub
-git push origin main
